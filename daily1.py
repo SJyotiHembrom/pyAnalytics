@@ -2,7 +2,7 @@
 #-----------------------------
 #Data Structures
 #List - ordered collection of items, mutable : [square ]
-list1 = [1,2,3,4,5,'a','Dhiraj',"Upadhyaya",True]  #list type of object with data
+list1 = [1,2,3,4,5,'a','SJyoti',"Hembrom",True]  #list type of object with data
 list1  #print when through spyder
 type(list1)  #type of object
 print(list1)  #print when running complete file
@@ -71,7 +71,7 @@ for i in list1:
     print(i)
   
 for i in list1:    print(i)
-for i in list1:    print('Dhiraj ', i + 6)
+for i in list1:    print('Jyoti ', i + 6)
 
 tuple1
 list5 = ['a',1]
